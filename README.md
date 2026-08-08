@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Raunakshukla90/tuf/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 | [1768-merge-strings-alternately](https://github.com/Raunakshukla90/tuf/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunakshukla90/tuf/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Raunakshukla90/tuf/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Raunakshukla90/tuf/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunakshukla90/tuf/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunakshukla90/tuf/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunakshukla90/tuf/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunakshukla90/tuf/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
