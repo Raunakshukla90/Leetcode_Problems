@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raunakshukla90/tuf/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunakshukla90/tuf/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Raunakshukla90/tuf/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Raunakshukla90/tuf/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0875-koko-eating-bananas](https://github.com/Raunakshukla90/tuf/tree/master/0875-koko-eating-bananas) |
