@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
+| [0780-reaching-points](https://github.com/Raunakshukla90/tuf/tree/master/0780-reaching-points) |
 | [0858-mirror-reflection](https://github.com/Raunakshukla90/tuf/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0780-reaching-points](https://github.com/Raunakshukla90/tuf/tree/master/0780-reaching-points) |
 | [0858-mirror-reflection](https://github.com/Raunakshukla90/tuf/tree/master/0858-mirror-reflection) |
 ## Enumeration
 |  |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raunakshukla90/tuf/tree/master/0918-maximum-sum-circular-subarray) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Raunakshukla90/tuf/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
