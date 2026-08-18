@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Raunakshukla90/tuf/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raunakshukla90/tuf/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunakshukla90/tuf/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Raunakshukla90/tuf/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Raunakshukla90/tuf/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raunakshukla90/tuf/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunakshukla90/tuf/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Raunakshukla90/tuf/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Raunakshukla90/tuf/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
