@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/Raunakshukla90/tuf/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raunakshukla90/tuf/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/Raunakshukla90/tuf/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/Raunakshukla90/tuf/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raunakshukla90/tuf/tree/master/2549-count-distinct-numbers-on-board) |
