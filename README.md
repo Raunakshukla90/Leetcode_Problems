@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Raunakshukla90/tuf/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Raunakshukla90/tuf/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Raunakshukla90/tuf/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raunakshukla90/tuf/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Raunakshukla90/tuf/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Raunakshukla90/tuf/tree/master/0686-repeated-string-match) |
