@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Raunakshukla90/tuf/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Raunakshukla90/tuf/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -369,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Raunakshukla90/tuf/tree/master/0051-n-queens) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Raunakshukla90/tuf/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
