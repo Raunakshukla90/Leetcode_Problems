@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Raunakshukla90/tuf/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
 | [0780-reaching-points](https://github.com/Raunakshukla90/tuf/tree/master/0780-reaching-points) |
+| [0836-rectangle-overlap](https://github.com/Raunakshukla90/tuf/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Raunakshukla90/tuf/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Raunakshukla90/tuf/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Raunakshukla90/tuf/tree/master/0858-mirror-reflection) |
 ## Least Common Multiple
 |  |
