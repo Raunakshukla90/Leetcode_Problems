@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Raunakshukla90/tuf/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Raunakshukla90/tuf/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2129-capitalize-the-title](https://github.com/Raunakshukla90/tuf/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Raunakshukla90/tuf/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raunakshukla90/tuf/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunakshukla90/tuf/tree/master/3090-maximum-length-substring-with-two-occurrences) |
