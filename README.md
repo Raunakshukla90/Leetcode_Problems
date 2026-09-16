@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raunakshukla90/tuf/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raunakshukla90/tuf/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Raunakshukla90/tuf/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Raunakshukla90/tuf/tree/master/0896-monotonic-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Raunakshukla90/tuf/tree/master/2643-row-with-maximum-ones) |
 ## Tree
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raunakshukla90/tuf/tree/master/2685-count-the-number-of-complete-components) |
