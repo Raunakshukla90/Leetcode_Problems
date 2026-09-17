@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Raunakshukla90/tuf/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/Raunakshukla90/tuf/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Raunakshukla90/tuf/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Raunakshukla90/tuf/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
+| [0441-arranging-coins](https://github.com/Raunakshukla90/tuf/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Raunakshukla90/tuf/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
