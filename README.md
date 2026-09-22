@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Raunakshukla90/tuf/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/Raunakshukla90/tuf/tree/master/2129-capitalize-the-title) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raunakshukla90/tuf/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Raunakshukla90/tuf/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raunakshukla90/tuf/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunakshukla90/tuf/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Raunakshukla90/tuf/tree/master/0409-longest-palindrome) |
 | [0460-lfu-cache](https://github.com/Raunakshukla90/tuf/tree/master/0460-lfu-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raunakshukla90/tuf/tree/master/2351-first-letter-to-appear-twice) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raunakshukla90/tuf/tree/master/2549-count-distinct-numbers-on-board) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raunakshukla90/tuf/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunakshukla90/tuf/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Raunakshukla90/tuf/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Raunakshukla90/tuf/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Raunakshukla90/tuf/tree/master/2351-first-letter-to-appear-twice) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raunakshukla90/tuf/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
