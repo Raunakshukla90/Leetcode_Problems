@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Raunakshukla90/tuf/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Raunakshukla90/tuf/tree/master/0058-length-of-last-word) |
+| [0127-word-ladder](https://github.com/Raunakshukla90/tuf/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raunakshukla90/tuf/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Raunakshukla90/tuf/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/Raunakshukla90/tuf/tree/master/0520-detect-capital) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Raunakshukla90/tuf/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Raunakshukla90/tuf/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raunakshukla90/tuf/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Raunakshukla90/tuf/tree/master/0409-longest-palindrome) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/Raunakshukla90/tuf/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Raunakshukla90/tuf/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Raunakshukla90/tuf/tree/master/0278-first-bad-version) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Raunakshukla90/tuf/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
