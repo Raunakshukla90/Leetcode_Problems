@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raunakshukla90/tuf/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Raunakshukla90/tuf/tree/master/0225-implement-stack-using-queues) |
 | [0460-lfu-cache](https://github.com/Raunakshukla90/tuf/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Raunakshukla90/tuf/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Raunakshukla90/tuf/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/Raunakshukla90/tuf/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raunakshukla90/tuf/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Raunakshukla90/tuf/tree/master/2390-removing-stars-from-a-string) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Raunakshukla90/tuf/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raunakshukla90/tuf/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raunakshukla90/tuf/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
