@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Raunakshukla90/tuf/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Raunakshukla90/tuf/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
 | [1929-concatenation-of-array](https://github.com/Raunakshukla90/tuf/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Raunakshukla90/tuf/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [2643-row-with-maximum-ones](https://github.com/Raunakshukla90/tuf/tree/master/2643-row-with-maximum-ones) |
 ## Tree
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raunakshukla90/tuf/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raunakshukla90/tuf/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Raunakshukla90/tuf/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raunakshukla90/tuf/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Raunakshukla90/tuf/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raunakshukla90/tuf/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
