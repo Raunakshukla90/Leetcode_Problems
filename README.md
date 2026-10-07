@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Raunakshukla90/tuf/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Raunakshukla90/tuf/tree/master/0896-monotonic-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Raunakshukla90/tuf/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Raunakshukla90/tuf/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [2643-row-with-maximum-ones](https://github.com/Raunakshukla90/tuf/tree/master/2643-row-with-maximum-ones) |
