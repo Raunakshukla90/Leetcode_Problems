@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raunakshukla90/tuf/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raunakshukla90/tuf/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/Raunakshukla90/tuf/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raunakshukla90/tuf/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raunakshukla90/tuf/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raunakshukla90/tuf/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raunakshukla90/tuf/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Raunakshukla90/tuf/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raunakshukla90/tuf/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raunakshukla90/tuf/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
