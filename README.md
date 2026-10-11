@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raunakshukla90/tuf/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1920-build-array-from-permutation](https://github.com/Raunakshukla90/tuf/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raunakshukla90/tuf/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raunakshukla90/tuf/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Raunakshukla90/tuf/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/Raunakshukla90/tuf/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raunakshukla90/tuf/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Raunakshukla90/tuf/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Raunakshukla90/tuf/tree/master/2549-count-distinct-numbers-on-board) |
