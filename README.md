@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Raunakshukla90/tuf/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Raunakshukla90/tuf/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raunakshukla90/tuf/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Raunakshukla90/tuf/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Raunakshukla90/tuf/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Raunakshukla90/tuf/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Raunakshukla90/tuf/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Raunakshukla90/tuf/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Raunakshukla90/tuf/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raunakshukla90/tuf/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Raunakshukla90/tuf/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Raunakshukla90/tuf/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -477,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raunakshukla90/tuf/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Raunakshukla90/tuf/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Raunakshukla90/tuf/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
