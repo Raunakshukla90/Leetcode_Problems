@@ -18,8 +18,9 @@ public:
         while(!q.empty()) {
             temp=q.front(); // get the value before pop coz pop will not return anyy val
             q.pop();
-            if (temp->right) q.push(temp->right);
+           if (temp->right) q.push(temp->right);
             if(temp->left) q.push(temp->left);
+            
         }
         return temp->val;
         
