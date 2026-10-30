@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0112-path-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0112-path-sum) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raunakshukla90/tuf/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Raunakshukla90/tuf/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Raunakshukla90/tuf/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Raunakshukla90/tuf/tree/master/0678-valid-parenthesis-string) |
