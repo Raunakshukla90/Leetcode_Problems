@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Raunakshukla90/tuf/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raunakshukla90/tuf/tree/master/0215-kth-largest-element-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Raunakshukla90/tuf/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0542-01-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Raunakshukla90/tuf/tree/master/0766-toeplitz-matrix) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Raunakshukla90/tuf/tree/master/0204-count-primes) |
 | [0441-arranging-coins](https://github.com/Raunakshukla90/tuf/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Raunakshukla90/tuf/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Raunakshukla90/tuf/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Raunakshukla90/tuf/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
