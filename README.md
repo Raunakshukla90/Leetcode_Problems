@@ -529,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raunakshukla90/tuf/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Raunakshukla90/tuf/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
