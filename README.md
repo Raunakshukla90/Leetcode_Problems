@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raunakshukla90/tuf/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunakshukla90/tuf/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raunakshukla90/tuf/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Raunakshukla90/tuf/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunakshukla90/tuf/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Raunakshukla90/tuf/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Raunakshukla90/tuf/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raunakshukla90/tuf/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Raunakshukla90/tuf/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/Raunakshukla90/tuf/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Raunakshukla90/tuf/tree/master/1929-concatenation-of-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Raunakshukla90/tuf/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raunakshukla90/tuf/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raunakshukla90/tuf/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raunakshukla90/tuf/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raunakshukla90/tuf/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Raunakshukla90/tuf/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunakshukla90/tuf/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Raunakshukla90/tuf/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raunakshukla90/tuf/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raunakshukla90/tuf/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/Raunakshukla90/tuf/tree/master/3731-find-missing-elements) |
